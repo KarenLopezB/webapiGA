@@ -1,0 +1,11 @@
+{
+    "nombre" : "Karen",
+    "edad" : 22,
+    "estudiante" : false,
+    "direccion" : {
+        "calle" : "Cerrada Zafiro",
+        "numero_ext" : 64,
+        "colonia" : "Villa Dorada 1"
+    },
+    "materias" : ["Móviles", "Tratamiento de señales"]
+}
